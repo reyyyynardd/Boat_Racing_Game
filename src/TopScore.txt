@@ -1,0 +1,6 @@
+Player	Scores
+Hong	21
+Rainer	23
+Fuba	23
+Luna	24
+Lubang	26
